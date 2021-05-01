@@ -7,7 +7,7 @@ module.exports = {
       title: 'Test title',
       subtitle: 'Test subtitle',
       copyright: 'Test copyright',
-      disqusShortname: '',
+      disqusShortname: 'rohitbajaj-1',
       postsPerPage: 4,
       menu: [
         {

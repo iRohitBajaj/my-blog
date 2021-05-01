@@ -3,12 +3,12 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Blog by Rohit Bajaj',
+  subtitle: 'Rohit is a tech enthusiast, avid learner and an Application Modernization Architect working at VMware.',
   copyright: '© All rights reserved.',
-  disqusShortname: '',
+  disqusShortname: 'rohitbajaj-1',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: 'TODO',
   useKatex: false,
   menu: [
     {
@@ -18,32 +18,16 @@ module.exports = {
     {
       label: 'About me',
       path: '/pages/about'
-    },
-    {
-      label: 'Contact me',
-      path: '/pages/contacts'
     }
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    name: 'Rohit Bajaj',
+    photo: '/profile.jpg',
+    bio: 'Rohit is a tech enthusiast, avid learner and an Application Modernization Architect working at VMware.',
     contacts: {
-      email: '',
-      facebook: '#',
-      telegram: '#',
       twitter: '#',
-      github: '#',
-      rss: '',
-      vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
-      line: '',
-      gitlab: '',
-      weibo: '',
-      codepen: '',
-      youtube: '',
-      soundcloud: '',
+      github: 'https://github.com/iRohitBajaj',
+      linkedin: 'https://www.linkedin.com/in/rohit-bajaj-b5a00a25',
       medium: '',
     }
   }
