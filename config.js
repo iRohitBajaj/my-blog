@@ -26,8 +26,8 @@ module.exports = {
     bio: 'Rohit is a tech enthusiast, avid learner and an Application Modernization Architect working at VMware.',
     contacts: {
       twitter: '#',
-      github: 'https://github.com/iRohitBajaj',
-      linkedin: 'https://www.linkedin.com/in/rohit-bajaj-b5a00a25',
+      github: 'iRohitBajaj',
+      linkedin: 'rohit-bajaj-b5a00a25',
       medium: '',
     }
   }
