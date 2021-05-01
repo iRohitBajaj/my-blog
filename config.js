@@ -2,7 +2,7 @@
 
 module.exports = {
   url: 'https://lumen.netlify.com',
-  pathPrefix: '/',
+  pathPrefix: '/my-blog',
   title: 'Blog by Rohit Bajaj',
   subtitle: 'Rohit is a tech enthusiast, avid learner and an Application Modernization Architect working at VMware.',
   copyright: '© All rights reserved.',
