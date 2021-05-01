@@ -21,9 +21,9 @@
   Cache-Control: public, max-age=31536000, immutable
 /component---src-templates-categories-list-template-js-2181ec47d28e5c35d3e9.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-templates-post-template-js-32a004a3619ef9011e8d.js
-  Cache-Control: public, max-age=31536000, immutable
 /component---src-templates-page-template-js-d8aeb4e67f2e8af3e6cd.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-post-template-js-32a004a3619ef9011e8d.js
   Cache-Control: public, max-age=31536000, immutable
 /component---src-templates-tag-template-js-6f77d5f667fd901ff51f.js
   Cache-Control: public, max-age=31536000, immutable
@@ -93,18 +93,6 @@
   Link: </component---src-templates-categories-list-template-js-2181ec47d28e5c35d3e9.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/categories/page-data.json>; rel=preload; as=fetch; crossorigin
-/posts/common-concerns-weblogic-kubernetes-migration
-  Link: </webpack-runtime-bd0428b1945297b38bf9.js>; rel=preload; as=script
-  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </framework-1e331b2e9d55ebef6dec.js>; rel=preload; as=script
-  Link: </532a2f07-549094fa347c85980056.js>; rel=preload; as=script
-  Link: </dc6a8720040df98778fe970bf6c000a41750d3ae-359cf50f862f137757be.js>; rel=preload; as=script
-  Link: </app-6c763ad6abf5fddb2133.js>; rel=preload; as=script
-  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </cd95ea5cbd2c605f26db819f07999610c9ff4310-24d0b88406ad8ff789bd.js>; rel=preload; as=script
-  Link: </component---src-templates-post-template-js-32a004a3619ef9011e8d.js>; rel=preload; as=script
-  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/posts/common-concerns-weblogic-kubernetes-migration/page-data.json>; rel=preload; as=fetch; crossorigin
 /pages/about/
   Link: </webpack-runtime-bd0428b1945297b38bf9.js>; rel=preload; as=script
   Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
@@ -117,6 +105,18 @@
   Link: </component---src-templates-page-template-js-d8aeb4e67f2e8af3e6cd.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/pages/about/page-data.json>; rel=preload; as=fetch; crossorigin
+/posts/common-concerns-weblogic-kubernetes-migration
+  Link: </webpack-runtime-bd0428b1945297b38bf9.js>; rel=preload; as=script
+  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </framework-1e331b2e9d55ebef6dec.js>; rel=preload; as=script
+  Link: </532a2f07-549094fa347c85980056.js>; rel=preload; as=script
+  Link: </dc6a8720040df98778fe970bf6c000a41750d3ae-359cf50f862f137757be.js>; rel=preload; as=script
+  Link: </app-6c763ad6abf5fddb2133.js>; rel=preload; as=script
+  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </cd95ea5cbd2c605f26db819f07999610c9ff4310-24d0b88406ad8ff789bd.js>; rel=preload; as=script
+  Link: </component---src-templates-post-template-js-32a004a3619ef9011e8d.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/posts/common-concerns-weblogic-kubernetes-migration/page-data.json>; rel=preload; as=fetch; crossorigin
 /tag/replatforming
   Link: </webpack-runtime-bd0428b1945297b38bf9.js>; rel=preload; as=script
   Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
